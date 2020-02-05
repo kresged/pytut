@@ -8,3 +8,5 @@
 * [Microsoft Python for Beginner Series](https://channel9.msdn.com/Series/Intro-to-Python-Development?WT.mc_id=python-c9-niner)
 * [Microsoft Introduction to Python Course](https://docs.microsoft.com/en-us/learn/modules/intro-to-python/)
 * [Python 3 Documentation](https://docs.python.org/3/)
+
+<iframe src="https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-2-of-44-Introducing-Python/player" width="960" height="540" allowFullScreen frameBorder="0" title="Python for Beginners [2 of 44] Introducing Python - Microsoft Channel 9 Video"></iframe>
