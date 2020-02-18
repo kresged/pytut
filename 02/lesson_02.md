@@ -1,4 +1,4 @@
-## Lesson 01 Links
+## Lesson 02 Links
 * [Microsoft Python for Beginner Series - Conditional Logic](https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-19-of-44-Conditional-Logic)
 * The following video covers both Lists and Dictionaries - don't worry about Dictionaries for now. [Microsoft Python for Beginner Series - Collections](https://channel9.msdn.com/Series/Intro-to-Python-Development/Python-for-Beginners-25-of-44-Collections)
 
