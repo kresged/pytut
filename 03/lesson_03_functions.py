@@ -5,7 +5,7 @@
 # I'm going to define a little helper function that will allow me to pause/resume the
 # program while I'm doing the presentation.  Don't worry about this for now.  If you
 # are running this program in "non-presentation" mode, then set PRESENTATION_MODE to False.
-PRESENTATION_MODE = False
+PRESENTATION_MODE = True
 def pause_program():
     print()
     if PRESENTATION_MODE:
