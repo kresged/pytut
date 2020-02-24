@@ -65,7 +65,7 @@ print("fruits:", fruits)
 
 pause_program()
 
-# Note that a List can have the same ojbect more than once
+# Note that a List can have the same object more than once
 fruits.insert(0, 'apple')
 print("fruits:", fruits)
 
